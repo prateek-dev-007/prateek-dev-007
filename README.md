@@ -25,24 +25,34 @@ I enjoy creating **scalable, user-friendly, and visually appealing applications*
 - ⚡ Fun fact: **I love turning complex problems into clean UI solutions**  
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=prateek-dev-007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateek-dev-007&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prateek-dev-007&theme=tokyonight&hide_border=true" alt="GitHub streak" height="180"/>
 </p>
 
 <p align="center">
+  <!-- Contribution Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-dev-007&theme=tokyonight" alt="GitHub Contribution Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prateek-dev-007&theme=tokyonight&utcOffset=5" alt="GitHub Commit Stats" />
+  <!-- Commit Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prateek-dev-007&theme=tokyonight&utcOffset=5" alt="GitHub Commit Stats" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=prateek-dev-007&theme=tokyonight" alt="Overall Stats" height="180"/>
+</p>
+
+<p align="center">
+  <!-- Language Insights -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=prateek-dev-007&theme=tokyonight" alt="Repos per Language" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=prateek-dev-007&theme=tokyonight" alt="Most Commit Language" height="180"/>
 </p>
 
 

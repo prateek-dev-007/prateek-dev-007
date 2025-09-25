@@ -22,7 +22,6 @@ I enjoy creating **scalable, user-friendly, and visually appealing applications*
 - 🌱 Learning **system design & performance optimization**  
 - 👯 Open to collaborating on **frontend-focused open-source projects**  
 - 💬 Ask me about **React, JavaScript, TypeScript, or UI/UX best practices**  
-- 📫 Reach me at: **prprateek2022@gmail.com**  
 - ⚡ Fun fact: **I love turning complex problems into clean UI solutions**  
 
 ---
@@ -41,6 +40,11 @@ I enjoy creating **scalable, user-friendly, and visually appealing applications*
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prateek-dev-007&theme=tokyonight" alt="GitHub Contribution Summary" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prateek-dev-007&theme=tokyonight&utcOffset=5" alt="GitHub Commit Stats" />
+</p>
+
 
 ---
 
